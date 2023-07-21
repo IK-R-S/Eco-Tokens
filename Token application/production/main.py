@@ -1,10 +1,13 @@
+# UNIVERSIDADE FEDERAL DO PARÁ - UFPA.2023
+# https://github.com/IK-R-S/eco-tokens
+# ECO-TOKENS SYSTEM V.0.1
+# GNU GPL 3.0 LICENSE
+
 from flask import Flask, request, redirect, jsonify
 from database.database import Database
 from flask_cors import CORS
-import secrets
 from http import HTTPStatus
-
-# Tokens system v0.0.1
+import secrets
 
 app = Flask(__name__)
 app.secret_key = 'segredo'
