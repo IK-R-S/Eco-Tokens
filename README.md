@@ -18,7 +18,7 @@ O EcoTokens é um sistema de economia sustentável desenvolvido para a Universid
 
 ## Como Participar 🤝
 
-1. Acesse o aplicativo EcoTokens através do link: [https://ecotokens.ufpa.br](https://ecotokens.ufpa.br)
+1. Acesse o aplicativo EcoTokens _(Em breve)_
 
 2. Faça o registro fornecendo os dados necessários.
 
