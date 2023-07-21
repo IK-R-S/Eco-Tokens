@@ -1,4 +1,7 @@
-![social-preview](https://github.com/IK-R-S/eco-tokens/assets/73291742/ee836271-594c-4168-bea5-3a75d95f6948)
+<div style="border-radius: 100px">
+    <img src="https://github.com/IK-R-S/eco-tokens/assets/73291742/ee836271-594c-4168-bea5-3a75d95f6948" alt="Eco-Tokens" />
+</div>
+
 
 # Eco-Tokens
 ### Projeto de economia sustentável com sistema de pontuação e troca de valor virtual (Tokens) ♻️
