@@ -3,7 +3,7 @@
 # Eco-Tokens
 ### Projeto de economia sustentável com sistema de pontuação e troca de valor virtual (Tokens) ♻️
 
-O EcoTokens é um sistema de economia sustentável desenvolvido para a Universidade Federal do Pará. Ele permite que os membros da comunidade universitária troquem resíduos recicláveis por **UFTs**, uma moeda virtual de negociação e benefícios dentro da universidade.
+O EcoTokens é um sistema de economia sustentável desenvolvido para a Universidade Federal do Pará. Ele permite que os membros da comunidade universitária troquem resíduos recicláveis por **ECTKs**, uma moeda virtual de negociação e benefícios dentro da universidade.
 
 ## Funcionalidades 🪙
 
